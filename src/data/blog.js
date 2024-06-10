@@ -26,6 +26,12 @@ const blogData = {
       minutes: 47,
     },
   ],
+
+  tasks: [
+    { id: 1, text: "Task 1", category: "Category A" },
+    { id: 2, text: "Task 2", category: "Category B" },
+    { id: 3, text: "Task 3", category: "Category C" }
+  ]
 };
 
 export default blogData;
